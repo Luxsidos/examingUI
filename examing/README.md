@@ -3,8 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
-<h2> Dasturni Yuklash uchun: </h2>
+<h3> Dasturni Yuklash uchun: </h3>
 https://github.com/Luxsidos/examingUI/blob/main/app-release%5B1%5D.apk
+
 
 This project is a starting point for a Flutter application.
 
