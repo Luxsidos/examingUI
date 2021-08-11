@@ -5,7 +5,8 @@ A new Flutter project.
 ## Getting Started
 <h3> Dasturni Yuklash uchun: </h3>
 https://github.com/Luxsidos/examingUI/blob/main/app-release%5B1%5D.apk
-
+<hr>
+<a href="https://ibb.co/dmLszvX"><img src="https://i.ibb.co/g4PbB8Q/Screenshot-20210811-145201.jpg" alt="Screenshot-20210811-145201" width="200" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>random roller</a><br />
 <hr>
 This project is a starting point for a Flutter application.
 
