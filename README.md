@@ -1,5 +1,9 @@
 # examingUI
 Local databasega internetdan kelgan ma'lumotlarni yozdirib ishlaydigan dastur. Examingda ishlandi.
+
+<h3> Dasturni Yuklash uchun: </h3>
+https://github.com/Luxsidos/examingUI/blob/main/app-release%5B1%5D.apk
+<hr>
 <a href="https://ibb.co/tz45KHK"><img src="https://i.ibb.co/QkfGQJQ/Screenshot-20210811-145743.jpg" alt="Screenshot-20210811-145743" width="200" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>random roller</a><br />
 <hr>
 <a href="https://ibb.co/MSkYC9y"><img src="https://i.ibb.co/3dmDCk5/Screenshot-20210811-145138.jpg" alt="Screenshot-20210811-145138" width="200" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>random roller</a><br />
