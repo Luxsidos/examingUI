@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "7750509680",
+    "project_id": "forexaming-f5667",
+    "storage_bucket": "forexaming-f5667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7750509680:android:f2b05e99ce5786240000b5",
+        "android_client_info": {
+          "package_name": "com.example.examing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7750509680-0hp8f0dmqinolicjv88busu1j0gene6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examing",
+            "certificate_hash": "18690dfadab08ae5668f9557a3621375f24d62b5"
+          }
+        },
+        {
+          "client_id": "7750509680-s9osa8e1smms7mfpl9kg57u61nabd0ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNBWx9dY3y71dagwCCY83AXb5sXdJDScM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7750509680-s9osa8e1smms7mfpl9kg57u61nabd0ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
